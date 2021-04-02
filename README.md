@@ -1,7 +1,7 @@
 ### Hiya (^‿^✼)/ 
 
-★ My name is **Lea** and I mainly enjoy **designing** and **drawing** things. 
+★ My name is **Lea** and I mainly enjoy graphic design and digital art. 
 
-★ Sometimes I also use **Node.js** to bring them to life. 
+★ I also like programming with Node.js. 
 
-★ My pronouns are **they/them** or **she/her**.
+★ I do everything on Linux with mostly free open-source software.
