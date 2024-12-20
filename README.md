@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently trying to learn **more Frontend frameworks like React, Vue, Svelte.**
 
-- 👨‍💻 All of my projects are available at [https://me.minhperry.de/projects](https://me.minhperry.de/me)
+- 👨‍💻 All of my projects are available at [https://me.minhperry.de/me](https://me.minhperry.de/me)
 
 - 📝 I regularly write articles on [https://blog.minhperry.de](https://blog.minhperry.de)
 
