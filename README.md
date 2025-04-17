@@ -34,8 +34,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/minhperry"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/minhperry" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhperry&show_icons=true&locale=en&layout=compact" alt="minhperry" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhperry&show_icons=true&locale=en" alt="minhperry" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhperry&" alt="minhperry" /></p>
